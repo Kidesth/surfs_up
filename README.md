@@ -5,12 +5,15 @@
 
 ## Results
 
-In June Temperature  we got the results of June temp count, mean, standard deviation, minimum, and maximum
+In June Temperature  we got the results of June temp of count, mean, standard deviation, minimum, and maximum
 
 ![june temps](https://user-images.githubusercontent.com/107454933/188289773-936d7cde-43f9-4dbf-bc25-597b62689d03.png)
 
 
 
-In June Temperature  we got the results of December temp  count, mean, standard deviation, minimum, and maximum
+In December Temperature  we got the results of December temp of count, mean, standard deviation, minimum, and maximum
 ![december temps](https://user-images.githubusercontent.com/107454933/188289778-71b6cf6f-26e3-4656-b5a4-58c682b7cc72.png)
+
+## Summary
+
 
